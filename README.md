@@ -1,2 +1,2 @@
-robots.txt
+whatever robots.txt
 ==========
